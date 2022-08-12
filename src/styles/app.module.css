@@ -1,0 +1,25 @@
+.parent {
+  display: flex;
+}
+.sidenav {
+  width: 5%;
+  background-color: #042235;
+  min-height: 100vh;
+}
+.content {
+  width: 95%;
+}
+.icon {
+  color: white;
+  text-decoration: none;
+  display: list-item;
+  text-align: center;
+  padding: 10px;
+}
+.listItem {
+  color: white;
+  text-decoration: none;
+  display: list-item;
+  text-align: center;
+  padding: 10px;
+}

@@ -1,0 +1,17 @@
+.parent {
+  display: flex;
+}
+.imageContainer {
+  padding: 10px;
+}
+.imageContainer img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+.textContainer p {
+  margin: 0;
+}
+.textContainer span {
+  font-weight: bold;
+}

@@ -1,0 +1,45 @@
+.parent {
+  max-width: 300px;
+  padding: 20px;
+  background: #ffffff;
+  border: 1px solid #e4e7ec;
+  border-radius: 4px;
+}
+.parent_archive {
+  max-width: 300px;
+  padding: 20px;
+  background: #e4e7ec;
+  border: 1px solid #e4e7ec;
+  border-radius: 4px;
+}
+.header {
+  display: flex;
+  width: 100%;
+}
+.icon img {
+  width: 45px;
+  height: 45px;
+}
+.subHeader {
+  display: flex;
+  flex-direction: column;
+  margin-left: 10px;
+}
+.star {
+  margin-left: auto;
+}
+.star_fav {
+  margin-left: auto;
+  color: yellow;
+}
+.description {
+  border-bottom: solid 1px #e4e7ec;
+}
+.footer {
+  display: flex;
+  padding: 10px 0;
+}
+.text {
+  font-size: 15px;
+  padding: 0 10px;
+}
